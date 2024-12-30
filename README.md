@@ -29,8 +29,8 @@ Reach out for a smart contract security audit on Telegram -> [@dadekuma](https:/
 # Private audits
 | Protocol | Date | Collaboration | Link |
 |----------|------|---------------|------|
-|   9Lives   |  12/2024    |    Solo            | Pending     |
+|   9Lives   |  12/2024    |    Solo            | [Report](https://github.com/DadeKuma/audits/blob/main/audits/9Lives-12-2024/9Lives-12-2024.pdf)     |
 |   Sofamon #2   |  10/2024    |    Pashov Audit Group            | Private     |
 |   Sofamon #1  |  10/2024    |    Pashov Audit Group            | Private     |
-|   Cryptex   |  10/2024    |    Pashov Audit Group            | [Report](https://github.com/pashov/audits/blob/master/team/pdf/Cryptex-security-review.pdf)     |
-|   DYAD   |  09/2024    |    Pashov Audit Group            | [Report](https://github.com/pashov/audits/blob/master/team/pdf/Dyad-security-review.pdf)     |
+|   Cryptex   |  10/2024    |    Pashov Audit Group            | [Report](https://github.com/DadeKuma/audits/blob/main/audits/Cryptex-09-2024/Cryptex-09-2024.pdf)     |
+|   DYAD   |  09/2024    |    Pashov Audit Group            | [Report](https://github.com/DadeKuma/audits/blob/main/audits/DYAD-09-2024/DYAD-09-2024.pdf)     |
