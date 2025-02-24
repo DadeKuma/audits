@@ -12,7 +12,7 @@ Reach out for a smart contract security audit on Telegram -> [@dadekuma](https:/
 # Public audits
 | Protocol        | Date    | Platform  | Rank       | Link | Language    |
 |----------------|---------|-----------|------------|------|------------|
-| Mantra DEX      | 11/2024 | Code4rena | 6th        | Pending | Rust/Cosmwasm |
+| Mantra DEX      | 12/2024 | Code4rena | 6th        | Pending | Rust/Cosmwasm |
 | Superposition   | 11/2024 | Code4rena | 🥇1st      | [Report](https://code4rena.com/reports/2024-10-superposition) | Rust/Arbitrum Stylus |
 | Audit 459       | 10/2024 | Code4rena | 5th        | Private | Solidity/EVM |
 | Superposition   | 09/2024 | Code4rena | 🥇1st      | [Report](https://code4rena.com/reports/2024-08-superposition) | Rust/Arbitrum Stylus  |
