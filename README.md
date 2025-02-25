@@ -28,7 +28,7 @@ Reach out for a smart contract security audit on Telegram -> [@dadekuma](https:/
 | Popcorn         | 01/2023 | Code4rena | 26th       | [Report](https://code4rena.com/reports/2023-01-popcorn) | Solidity / EVM |
 
 # Private audits
-| Protocol    | Date   | Duration  | Collaboration        | Link | Language    |
+| Protocol   |  Date   | Duration  | Collaboration        | Link | Language    |
 |------------|---------|-----------|----------------------|------|------------|
 | GMX        | 01/2024 | 6.0 weeks | Code4rena Zenith     | Pending | Rust / Solana |
 | 9Lives     | 12/2024 | 1.2 weeks | Solo                 | [Report](https://github.com/DadeKuma/audits/blob/main/audits/9Lives-12-2024/9Lives-12-2024.pdf) | Rust / Arbitrum Stylus |
