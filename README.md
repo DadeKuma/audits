@@ -28,11 +28,11 @@ Reach out for a smart contract security audit on Telegram -> [@dadekuma](https:/
 | Popcorn         | 01/2023 | Code4rena | 26th       | [Report](https://code4rena.com/reports/2023-01-popcorn) | Solidity / EVM |
 
 # Private audits
-| Protocol    | Date   | Collaboration        | Link | Language    |
-|------------|---------|----------------------|------|------------|
-| GMX        | 01/2024 | Code4rena Zenith     | Pending | Rust / Solana |
-| 9Lives     | 12/2024 | Solo                 | [Report](https://github.com/DadeKuma/audits/blob/main/audits/9Lives-12-2024/9Lives-12-2024.pdf) | Rust / Arbitrum Stylus |
-| Sofamon #2 | 10/2024 | Pashov Audit Group   | Private | Solidity / EVM |
-| Sofamon #1 | 10/2024 | Pashov Audit Group   | Private | Solidity / EVM |
-| Cryptex    | 10/2024 | Pashov Audit Group   | [Report](https://github.com/DadeKuma/audits/blob/main/audits/Cryptex-09-2024/Cryptex-09-2024.pdf) | Solidity / EVM |
-| DYAD       | 09/2024 | Pashov Audit Group   | [Report](https://github.com/DadeKuma/audits/blob/main/audits/DYAD-09-2024/DYAD-09-2024.pdf) | Solidity / EVM |
+| Protocol    | Date   | Duration  | Collaboration        | Link | Language    |
+|------------|---------|-----------|----------------------|------|------------|
+| GMX        | 01/2024 | 6.0 weeks | Code4rena Zenith     | Pending | Rust / Solana |
+| 9Lives     | 12/2024 | 1.2 weeks | Solo                 | [Report](https://github.com/DadeKuma/audits/blob/main/audits/9Lives-12-2024/9Lives-12-2024.pdf) | Rust / Arbitrum Stylus |
+| Sofamon #2 | 10/2024 | 0.2 weeks | Pashov Audit Group   | Private | Solidity / EVM |
+| Sofamon #1 | 10/2024 | 0.6 weeks | Pashov Audit Group   | Private | Solidity / EVM |
+| Cryptex    | 10/2024 | 1.0 weeks | Pashov Audit Group   | [Report](https://github.com/DadeKuma/audits/blob/main/audits/Cryptex-09-2024/Cryptex-09-2024.pdf) | Solidity / EVM |
+| DYAD       | 09/2024 | 0.6 weeks | Pashov Audit Group   | [Report](https://github.com/DadeKuma/audits/blob/main/audits/DYAD-09-2024/DYAD-09-2024.pdf) | Solidity / EVM |
