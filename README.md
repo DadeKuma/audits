@@ -30,6 +30,8 @@ Reach out for a smart contract security audit on Telegram -> [@dadekuma](https:/
 # Private audits
 | Protocol   |  Date   | Duration  | Collaboration        | Link | Language    |
 |------------|---------|-----------|----------------------|------|------------|
+| Aria       | 05/2025 | 0.4 weeks | Pashov Audit Group   | Pending | Solidity / EVM |
+| Yieldoor   | 05/2025 | 0.6 weeks | Pashov Audit Group   | Pending | Solidity / EVM |
 | 9Lives #2  | 03/2025 | 1.0 weeks | Solo                 | Pending | Rust / Arbitrum Stylus |
 | GMX Solana | 01/2025 | 6.0 weeks | Code4rena Zenith     | [Report](https://github.com/DadeKuma/audits/blob/main/audits/GMX-Sol-01-2025/GMX-Sol-01-2025.pdf) | Rust / Solana |
 | 9Lives #1  | 12/2024 | 1.2 weeks | Solo                 | [Report](https://github.com/DadeKuma/audits/blob/main/audits/9Lives-12-2024/9Lives-12-2024.pdf) | Rust / Arbitrum Stylus |
