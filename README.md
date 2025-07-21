@@ -30,6 +30,7 @@ Reach out for a smart contract security audit on Telegram -> [@dadekuma](https:/
 # Private audits
 | Protocol   |  Date   | Duration  | Collaboration        | Link | Language    |
 |------------|---------|-----------|----------------------|------|------------|
+| GMX Solana #3 | 07/2025 | 1.4 weeks | Code4rena Zenith     | Pending | Rust / Solana |
 | Hololaunch | 06/2025 | 1.4 weeks | Code4rena Zenith     | Pending | Rust / Solana |
 | GMX Solana #2 | 06/2025 | 2.1 weeks | Code4rena Zenith     | Pending | Rust / Solana |
 | Aria       | 05/2025 | 0.4 weeks | Pashov Audit Group   | Pending | Solidity / EVM |
