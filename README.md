@@ -30,13 +30,14 @@ Reach out for a smart contract security audit on Telegram -> [@dadekuma](https:/
 # Private audits
 | Protocol   |  Date   | Duration  | Collaboration        | Link | Language    |
 |------------|---------|-----------|----------------------|------|------------|
+| GMX Solana #4 | 08/2025 | 0.2 weeks | Code4rena Zenith     | Pending | Rust / Solana |
 | GMX Solana #3 | 07/2025 | 1.4 weeks | Code4rena Zenith     | Pending | Rust / Solana |
 | Hololaunch | 06/2025 | 1.4 weeks | Code4rena Zenith     | Pending | Rust / Solana |
 | GMX Solana #2 | 06/2025 | 2.1 weeks | Code4rena Zenith     | Pending | Rust / Solana |
 | Aria       | 05/2025 | 0.4 weeks | Pashov Audit Group   | Pending | Solidity / EVM |
 | Yieldoor   | 05/2025 | 0.6 weeks | Pashov Audit Group   | Pending | Solidity / EVM |
 | 9Lives #2  | 03/2025 | 1.0 weeks | Solo                 | Private | Rust / Arbitrum Stylus |
-| GMX Solana | 01/2025 | 6.0 weeks | Code4rena Zenith     | [Report](https://github.com/DadeKuma/audits/blob/main/audits/GMX-Sol-01-2025/GMX-Sol-01-2025.pdf) | Rust / Solana |
+| GMX Solana #1 | 01/2025 | 6.0 weeks | Code4rena Zenith     | [Report](https://github.com/DadeKuma/audits/blob/main/audits/GMX-Sol-01-2025/GMX-Sol-01-2025.pdf) | Rust / Solana |
 | 9Lives #1  | 12/2024 | 1.2 weeks | Solo                 | [Report](https://github.com/DadeKuma/audits/blob/main/audits/9Lives-12-2024/9Lives-12-2024.pdf) | Rust / Arbitrum Stylus |
 | Sofamon #2 | 10/2024 | 0.2 weeks | Pashov Audit Group   | Private | Solidity / EVM |
 | Sofamon #1 | 10/2024 | 0.6 weeks | Pashov Audit Group   | Private | Solidity / EVM |
