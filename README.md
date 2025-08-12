@@ -9,37 +9,37 @@ Reach out for a smart contract security audit on Telegram -> [@dadekuma](https:/
 - 🚀 64 / 2609 on Code4rena All Time
 - 🤖 #2 Bot racer on Code4rena All Time
 
-# Public audits
-| Protocol        | Date    | Platform  | Rank       | Link | Language    |
-|----------------|---------|-----------|------------|------|------------|
-| Mantra DEX      | 12/2024 | Code4rena | 6th        | Pending | Rust / Cosmwasm |
-| Superposition   | 11/2024 | Code4rena | 🥇1st      | [Report](https://code4rena.com/reports/2024-10-superposition) | Rust / Arbitrum Stylus |
-| Audit 459       | 10/2024 | Code4rena | 5th        | Private | Solidity / EVM |
-| Superposition   | 09/2024 | Code4rena | 🥇1st      | [Report](https://code4rena.com/reports/2024-08-superposition) | Rust / Arbitrum Stylus  |
-| Lavarage        | 04/2024 | Code4rena | 🥉3rd      | Private | Rust / Solana |
-| Panoptic        | 04/2024 | Code4rena | 16th       | [Report](https://code4rena.com/reports/2024-04-panoptic) | Solidity / EVM |
-| Phala Network   | 03/2024 | Code4rena | 🥇1st      | [Report](https://code4rena.com/reports/2024-03-phala-network) | Rust/Substrate |
-| Unistaker       | 02/2024 | Code4rena | 🥉3rd       | [Report](https://code4rena.com/audits/2024-02-unistaker-infrastructure) | Solidity / EVM |
-| Decent          | 01/2024 | Code4rena | 21st       | [Report](https://code4rena.com/reports/2024-01-decent) | Solidity / EVM |
-| Arcade xyz      | 07/2023 | Code4rena | 🥇1st      | [Report](https://code4rena.com/reports/2023-07-arcade) | Solidity / EVM |
-| Stader Labs     | 06/2023 | Code4rena | 7th        | [Report](https://code4rena.com/reports/2023-06-stader) | Solidity / EVM |
-| Neo Tokyo       | 03/2023 | Code4rena | 30th       | [Report](https://code4rena.com/reports/2023-03-neotokyo) | Solidity / EVM |
-| Ethos Reserve   | 02/2023 | Code4rena | 12th       | [Report](https://code4rena.com/reports/2023-02-ethos) | Solidity / EVM |
-| Popcorn         | 01/2023 | Code4rena | 26th       | [Report](https://code4rena.com/reports/2023-01-popcorn) | Solidity / EVM |
-
 # Private audits
-| Protocol   |  Date   | Duration  | Collaboration        | Link | Language    |
-|------------|---------|-----------|----------------------|------|------------|
-| GMX Solana #4 | 08/2025 | 0.2 weeks | Code4rena Zenith     | Pending | Rust / Solana |
-| GMX Solana #3 | 07/2025 | 1.4 weeks | Code4rena Zenith     | Pending | Rust / Solana |
-| Hololaunch | 06/2025 | 1.4 weeks | Code4rena Zenith     | Pending | Rust / Solana |
-| GMX Solana #2 | 06/2025 | 2.1 weeks | Code4rena Zenith     | Pending | Rust / Solana |
-| Aria       | 05/2025 | 0.4 weeks | Pashov Audit Group   | Pending | Solidity / EVM |
-| Yieldoor   | 05/2025 | 0.6 weeks | Pashov Audit Group   | Pending | Solidity / EVM |
-| 9Lives #2  | 03/2025 | 1.0 weeks | Solo                 | Private | Rust / Arbitrum Stylus |
-| GMX Solana #1 | 01/2025 | 6.0 weeks | Code4rena Zenith     | [Report](https://github.com/DadeKuma/audits/blob/main/audits/GMX-Sol-01-2025/GMX-Sol-01-2025.pdf) | Rust / Solana |
-| 9Lives #1  | 12/2024 | 1.2 weeks | Solo                 | [Report](https://github.com/DadeKuma/audits/blob/main/audits/9Lives-12-2024/9Lives-12-2024.pdf) | Rust / Arbitrum Stylus |
-| Sofamon #2 | 10/2024 | 0.2 weeks | Pashov Audit Group   | Private | Solidity / EVM |
-| Sofamon #1 | 10/2024 | 0.6 weeks | Pashov Audit Group   | Private | Solidity / EVM |
-| Cryptex    | 10/2024 | 1.0 weeks | Pashov Audit Group   | [Report](https://github.com/DadeKuma/audits/blob/main/audits/Cryptex-09-2024/Cryptex-09-2024.pdf) | Solidity / EVM |
-| DYAD       | 09/2024 | 0.6 weeks | Pashov Audit Group   | [Report](https://github.com/DadeKuma/audits/blob/main/audits/DYAD-09-2024/DYAD-09-2024.pdf) | Solidity / EVM |
+| Protocol        | Date    | Duration  | Collaboration        | Category                        | Language               | Link |
+|-----------------|---------|-----------|----------------------|----------------------------------|------------------------|------|
+| GMX Solana #4   | 08/2025 | 0.2 weeks | Code4rena Zenith     | DEX / AMM / Perpetuals           | Rust / Solana          | Pending |
+| GMX Solana #3   | 07/2025 | 1.4 weeks | Code4rena Zenith     | DEX / AMM / Perpetuals           | Rust / Solana          | Pending |
+| Hololaunch      | 06/2025 | 1.4 weeks | Code4rena Zenith     | DEX / Yield / Staking            | Rust / Solana          | Pending |
+| GMX Solana #2   | 06/2025 | 2.1 weeks | Code4rena Zenith     | DEX / AMM / Perpetuals           | Rust / Solana          | Pending |
+| Aria            | 05/2025 | 0.4 weeks | Pashov Audit Group   | -                                | Solidity / EVM         | Pending |
+| Yieldoor        | 05/2025 | 0.6 weeks | Pashov Audit Group   | Yield                            | Solidity / EVM         | Pending |
+| 9Lives #2       | 03/2025 | 1.0 weeks | Solo                 | Lottery / Prediction market      | Rust / Arbitrum Stylus | Private |
+| GMX Solana #1   | 01/2025 | 6.0 weeks | Code4rena Zenith     | DEX / AMM / Perpetuals           | Rust / Solana          | [Report](https://github.com/DadeKuma/audits/blob/main/audits/GMX-Sol-01-2025/GMX-Sol-01-2025.pdf) |
+| 9Lives #1       | 12/2024 | 1.2 weeks | Solo                 | Lottery / Prediction market      | Rust / Arbitrum Stylus | [Report](https://github.com/DadeKuma/audits/blob/main/audits/9Lives-12-2024/9Lives-12-2024.pdf) |
+| Sofamon #2      | 10/2024 | 0.2 weeks | Pashov Audit Group   | NFT / Collectibles               | Solidity / EVM         | Private |
+| Sofamon #1      | 10/2024 | 0.6 weeks | Pashov Audit Group   | NFT / Collectibles               | Solidity / EVM         | Private |
+| Cryptex         | 10/2024 | 1.0 weeks | Pashov Audit Group   | DEX / AMM                        | Solidity / EVM         | [Report](https://github.com/DadeKuma/audits/blob/main/audits/Cryptex-09-2024/Cryptex-09-2024.pdf) |
+| DYAD            | 09/2024 | 0.6 weeks | Pashov Audit Group   | Stablecoin                       | Solidity / EVM         | [Report](https://github.com/DadeKuma/audits/blob/main/audits/DYAD-09-2024/DYAD-09-2024.pdf) |
+
+# Public audits
+| Protocol        | Date    | Platform  | Category                  | Language               | Rank       | Link |
+|-----------------|---------|-----------|---------------------------|------------------------|------------|------|
+| Mantra DEX      | 12/2024 | Code4rena | DEX / AMM / Crosschain     | Rust / Cosmwasm        | 6th        | Pending |
+| Superposition   | 11/2024 | Code4rena | DEX / AMM / L2             | Rust / Arbitrum Stylus | 🥇1st      | [Report](https://code4rena.com/reports/2024-10-superposition) |
+| Audit 459       | 10/2024 | Code4rena | NFT / Yield                | Solidity / EVM         | 5th        | Private |
+| Superposition   | 09/2024 | Code4rena | DEX / AMM / L2             | Rust / Arbitrum Stylus | 🥇1st      | [Report](https://code4rena.com/reports/2024-08-superposition) |
+| Lavarage        | 04/2024 | Code4rena | Lending                    | Rust / Solana          | 🥉3rd      | Private |
+| Panoptic        | 04/2024 | Code4rena | DEX / AMM                  | Solidity / EVM         | 16th       | [Report](https://code4rena.com/reports/2024-04-panoptic) |
+| Phala Network   | 03/2024 | Code4rena | Infrastructure / L2        | Rust / Substrate       | 🥇1st      | [Report](https://code4rena.com/reports/2024-03-phala-network) |
+| Unistaker       | 02/2024 | Code4rena | Governance                 | Solidity / EVM         | 🥉3rd      | [Report](https://code4rena.com/audits/2024-02-unistaker-infrastructure) |
+| Decent          | 01/2024 | Code4rena | NFT / Crosschain           | Solidity / EVM         | 21st       | [Report](https://code4rena.com/reports/2024-01-decent) |
+| Arcade xyz      | 07/2023 | Code4rena | NFT / Lending              | Solidity / EVM         | 🥇1st      | [Report](https://code4rena.com/reports/2023-07-arcade) |
+| Stader Labs     | 06/2023 | Code4rena | Liquid Staking             | Solidity / EVM         | 7th        | [Report](https://code4rena.com/reports/2023-06-stader) |
+| Neo Tokyo       | 03/2023 | Code4rena | NFT / Collectibles         | Solidity / EVM         | 30th       | [Report](https://code4rena.com/reports/2023-03-neotokyo) |
+| Ethos Reserve   | 02/2023 | Code4rena | -                          | Solidity / EVM         | 12th       | [Report](https://code4rena.com/reports/2023-02-ethos) |
+| Popcorn         | 01/2023 | Code4rena | Yield / AMM                | Solidity / EVM         | 26th       | [Report](https://code4rena.com/reports/2023-01-popcorn) |
