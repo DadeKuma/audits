@@ -17,7 +17,7 @@ Reach out for a smart contract security audit on Telegram -> [@dadekuma](https:/
 | Hololaunch      | 06/2025 | 1.4 weeks | Code4rena Zenith     | DEX / Yield / Staking            | Rust / Solana          | Pending |
 | GMX Solana #2   | 06/2025 | 2.1 weeks | Code4rena Zenith     | DEX / AMM / Perpetuals           | Rust / Solana          | [Report](https://github.com/DadeKuma/audits/blob/main/audits/GMX-Sol-05-2025/GMX-Sol-05-2025.pdf) |
 | Aria            | 05/2025 | 0.4 weeks | Pashov Audit Group   | Staking                          | Solidity / EVM         | Pending |
-| Yieldoor        | 05/2025 | 0.6 weeks | Pashov Audit Group   | Yield                            | Solidity / EVM         | [Report](https://github.com/DadeKuma/audits/blob/main/audits/Yieldoor-04-2025/Yieldoor-04-2025.pdf) |
+| Yieldoor        | 05/2025 | 0.6 weeks | Pashov Audit Group   | Yield / Staking                  | Solidity / EVM         | [Report](https://github.com/DadeKuma/audits/blob/main/audits/Yieldoor-04-2025/Yieldoor-04-2025.pdf) |
 | 9Lives #2       | 03/2025 | 1.0 weeks | Solo                 | Lottery / Prediction market      | Rust / Arbitrum Stylus | Private |
 | GMX Solana #1   | 01/2025 | 6.0 weeks | Code4rena Zenith     | DEX / AMM / Perpetuals           | Rust / Solana          | [Report](https://github.com/DadeKuma/audits/blob/main/audits/GMX-Sol-01-2025/GMX-Sol-01-2025.pdf) |
 | 9Lives #1       | 12/2024 | 1.2 weeks | Solo                 | Lottery / Prediction market      | Rust / Arbitrum Stylus | [Report](https://github.com/DadeKuma/audits/blob/main/audits/9Lives-12-2024/9Lives-12-2024.pdf) |
