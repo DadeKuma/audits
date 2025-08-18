@@ -12,6 +12,7 @@ Reach out for a smart contract security audit on Telegram -> [@dadekuma](https:/
 # Private audits
 | Protocol        | Date    | Duration  | Collaboration        | Category                        | Language               | Link |
 |-----------------|---------|-----------|----------------------|----------------------------------|------------------------|------|
+| Mitosis         | 08/2025 | 0.2 weeks | Code4rena Zenith     | Yield / Staking                  | Solidity / EVM         | Pending |
 | GMX Solana #4   | 08/2025 | 0.2 weeks | Code4rena Zenith     | DEX / AMM / Perpetuals           | Rust / Solana          | Pending |
 | GMX Solana #3   | 07/2025 | 1.4 weeks | Code4rena Zenith     | DEX / AMM / Perpetuals           | Rust / Solana          | Pending |
 | Hololaunch      | 06/2025 | 1.4 weeks | Code4rena Zenith     | DEX / Yield / Staking            | Rust / Solana          | Pending |
