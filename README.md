@@ -12,6 +12,7 @@ Reach out for a smart contract security audit on Telegram -> [@dadekuma](https:/
 # Private audits
 | Protocol        | Date    | Duration  | Collaboration        | Category                               | Language               | Link |
 |-----------------|---------|-----------|----------------------|----------------------------------------|------------------------|------|
+| ShowDown        | 10/2025 | 1.0 weeks | Cyfrin               | TradFi / Prediction market             | Rust / Solana          | Pending |
 | Pyron           | 09/2025 | 2.0 weeks | Code4rena Zenith     | Lending / Yield                        | Rust / Solana          | Pending |
 | Alien Signer    | 09/2025 | 0.4 weeks | Code4rena Zenith     | Infrastructure / Crosschain            | Rust / Solana          | Pending |
 | Bob Offramp     | 08/2025 | 0.4 weeks | Pashov Audit Group   | Infrastructure / BTC / L2 / Crosschain | Rust                   | Pending |
