@@ -12,6 +12,8 @@ Reach out for a smart contract security audit on Telegram -> [@dadekuma](https:/
 # Private audits
 | Protocol        | Date    | Duration  | Collaboration        | Category                               | Language               | Link |
 |-----------------|---------|-----------|----------------------|----------------------------------------|------------------------|------|
+| C8ntinuum       | 12/2025 | 0.4 weeks | Code4rena Zenith     | Crosschain / L2 / Bridge               | Rust / Solana          | Pending |
+| ICM.RUN         | 12/2025 | 0.4 weeks | Code4rena Zenith     | Staking                                | Rust / Solana          | Pending |
 | Securitize DP   | 11/2025 | 0.4 weeks | Cyfrin               | Governance                             | Rust / Solana          | Pending |
 | Securitize SPL  | 10/2025 | 0.4 weeks | Cyfrin               | Governance                             | Rust / Solana          | Pending |
 | ShowDown        | 10/2025 | 1.0 weeks | Cyfrin               | TradFi / Prediction market             | Rust / Solana          | Pending |
