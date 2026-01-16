@@ -13,14 +13,14 @@ Reach out for a smart contract security audit on Telegram -> [@dadekuma](https:/
 | Protocol        | Date    | Duration  | Collaboration        | Category                               | Language               | Link |
 |-----------------|---------|-----------|----------------------|----------------------------------------|------------------------|------|
 | C8ntinuum       | 12/2025 | 0.4 weeks | Code4rena Zenith     | Crosschain / L2 / Bridge               | Rust / Solana          | Pending |
-| ICM.RUN         | 12/2025 | 0.4 weeks | Code4rena Zenith     | Staking                                | Rust / Solana          | Pending |
-| Securitize DP   | 11/2025 | 0.4 weeks | Cyfrin               | Governance                             | Rust / Solana          | Pending |
-| Securitize SPL  | 10/2025 | 0.4 weeks | Cyfrin               | Governance                             | Rust / Solana          | Pending |
+| ICM.RUN         | 12/2025 | 0.4 weeks | Code4rena Zenith     | Staking                                | Rust / Solana          | [Report](https://github.com/DadeKuma/audits/blob/main/audits/ICM.RUN-12-2025/ICM.RUN-12-2025.pdf) |
+| Securitize DP   | 11/2025 | 0.4 weeks | Cyfrin               | Governance                             | Rust / Solana          | [Report](https://github.com/DadeKuma/audits/blob/main/audits/Securitize-DP-11-2025/Securitize-DP-11-2025.pdf) |
+| Securitize SPL  | 10/2025 | 0.4 weeks | Cyfrin               | Governance                             | Rust / Solana          | [Report](https://github.com/DadeKuma/audits/blob/main/audits/Securitize-SPL-10-2025/Securitize-SPL-10-2025.pdf) |
 | ShowDown        | 10/2025 | 1.0 weeks | Cyfrin               | TradFi / Prediction market             | Rust / Solana          | Pending |
-| Pyron           | 09/2025 | 2.0 weeks | Code4rena Zenith     | Lending / Yield                        | Rust / Solana          | Pending |
+| Pyron           | 09/2025 | 2.0 weeks | Code4rena Zenith     | Lending / Yield                        | Rust / Solana          | [Report](https://github.com/DadeKuma/audits/blob/main/audits/Pyron-09-2025/Pyron-09-2025.pdf) |
 | Alien Signer    | 09/2025 | 0.4 weeks | Code4rena Zenith     | Infrastructure / Crosschain            | Rust / Solana          | Pending |
 | Bob Offramp     | 08/2025 | 0.4 weeks | Pashov Audit Group   | Infrastructure / BTC / L2 / Crosschain | Rust                   | Pending |
-| Mitosis         | 08/2025 | 0.2 weeks | Code4rena Zenith     | Yield / Staking                        | Solidity / EVM         | Pending |
+| Mitosis         | 08/2025 | 0.2 weeks | Code4rena Zenith     | Yield / Staking                        | Solidity / EVM         | [Report](https://github.com/DadeKuma/audits/blob/main/audits/Mitosis-08-2025/Mitosis-08-2025.pdf) |
 | GMX Solana #4   | 08/2025 | 0.2 weeks | Code4rena Zenith     | DEX / AMM / Perpetuals                 | Rust / Solana          | [Report](https://github.com/DadeKuma/audits/blob/main/audits/GMX-Sol-08-2025/GMX-Sol-08-2025.pdf) |
 | GMX Solana #3   | 07/2025 | 1.4 weeks | Code4rena Zenith     | DEX / AMM / Perpetuals                 | Rust / Solana          | [Report](https://github.com/DadeKuma/audits/blob/main/audits/GMX-Sol-07-2025/GMX-Sol-07-2025.pdf) |
 | Hololaunch      | 06/2025 | 1.4 weeks | Code4rena Zenith     | DEX / Yield / Staking                  | Rust / Solana          | Pending |
